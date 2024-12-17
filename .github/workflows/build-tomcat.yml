@@ -1,4 +1,4 @@
-name: Build Tomcat
+name: Build Tomcat 1
 
 on: [push]
 
